@@ -1,0 +1,16 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "Tutorial for npm and node",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Sarah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
